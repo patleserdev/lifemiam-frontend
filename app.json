@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "frontend",
+    "slug": "lifemiam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4b7f8ff2-8678-4e2c-9547-6b5431e5d9bb"
+      }
+    },
+    "owner": "lifemiam",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4b7f8ff2-8678-4e2c-9547-6b5431e5d9bb"
+    }
+  }
+}
